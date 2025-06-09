@@ -16,6 +16,10 @@ source .venv/bin/activate #UNIX-подобные системы
 
 Далее в корне проекта создайте файл .env со следующими параметрами 
 
+
+
+
+
 DB_HOST=localhost
 
 DB_PORT=Порт, на котором у вас прослушивается postgresql(скорее всего 5432)
@@ -27,6 +31,10 @@ DB_PASS=Пароль от вашей бд
 DB_NAME=Ваша бд, в которой будет создаваться модель Post ( см. /PostTgBot(TestQuantum) /app/models.py)
 
 API_TOKEN=Ваш Token для Бота Телеграм(см. BotFather @BotFather)
+
+
+
+
 
 
 Установите зависимости в проекте из файла requirements.txt

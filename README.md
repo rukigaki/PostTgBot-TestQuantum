@@ -1,4 +1,5 @@
 Склонируйте репозиторий локально себе на компьютер в виртуальное окружение 
+
 bash:
 git clone https://github.com/rukigaki/PostTgBot-TestQuantum.git
 python -m venv venv

@@ -6,6 +6,7 @@ git clone https://github.com/rukigaki/PostTgBot-TestQuantum.git
 python -m venv venv
 
 source .venv/bin/activate #UNIX-подобные системы
+
 .venv\Scripts\activate #Windows
 
 
